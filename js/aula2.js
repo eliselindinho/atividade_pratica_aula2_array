@@ -12,4 +12,6 @@ let matriz = [
   [2, 10, 20],
 ];
 
-let tabela = [0] * [1] == [2];
+for (let i = 0; i < 11; i++) {
+  console.log(2 + "*" + i + "=" + 2 * i);
+}
